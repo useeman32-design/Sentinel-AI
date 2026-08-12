@@ -1,0 +1,7 @@
+If you see this file in your local VS Code, Arena -> GitHub -> VS Code auto-pull is WORKING!
+
+Created from Arena at: Wed Aug 12 22:58:38 UTC 2026
+You are now in correctly cloned folder Sentinel-AI, so git remote is set.
+
+Next: Create a file FROM_VSCODE_TEST.txt in your VS Code and save it.
+If two-way sync works, I will see it here in Arena within 10 seconds!
