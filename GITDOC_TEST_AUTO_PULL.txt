@@ -1,0 +1,2 @@
+GitDoc Auto-Pull Test
+If you see this file in your VS Code WITHOUT manual pull, GitDoc is working!
