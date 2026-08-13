@@ -1,11 +1,14 @@
 {
-  "_comment": "EDIT THIS FILE - For ANY project, not just Sentinel-AI",
   "project_name": "MyProject",
-  "repo_url": "https://github.com/useeman32-design/Sentinel-AI.git",
-  "repo_short": "useeman32-design/Sentinel-AI",
-  "vscode_path": "C:\\xampp\\htdocs\\Sentinel-AI",
-  "token_placeholder": "PASTE_YOUR_GITHUB_TOKEN_HERE_ghp_xxxx",
-  "instructions_for_new_chat": "In fresh Arena chat, say: 'Read MASTER_SYNC_SETUP.json and setup sync. My token is ghp_xxxx' - Agent will read this file, clone repo, set remote, start dashboard on port 5050",
-  "dashboard_features": "Auto-push Arena->GitHub every 3s, GitDoc auto-pulls GitHub->VS Code every 3s",
-  "how_to_change_project": "Just edit repo_url and vscode_path and project_name in this file, paste new token, ask agent to reconnect"
+  "repo_url": "https://github.com/USERNAME/REPO_NAME.git",
+  "repo_short": "USERNAME/REPO_NAME",
+  "vscode_path": "C:\\xampp\\htdocs\\MyProject",
+  "token_placeholder": "PASTE_YOUR_GITHUB_TOKEN_HERE",
+  "_instructions": "EDIT repo_url, repo_short, vscode_path, project_name for ANY project. In fresh Arena chat, say: Read MASTER_SYNC_SETUP.json, my token is ghp_xxxx, setup sync",
+  "_example": {
+    "project_name": "Sentinel-AI",
+    "repo_url": "https://github.com/useeman32-design/Sentinel-AI.git",
+    "repo_short": "useeman32-design/Sentinel-AI",
+    "vscode_path": "C:\\xampp\\htdocs\\Sentinel-AI"
+  }
 }

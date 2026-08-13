@@ -1,8 +1,0 @@
-LIVE SYNC TEST - If you see this file in your VS Code, sync is working!
-
-Agent time: 2026-08-11 12:53 UTC
-Location: Abuja
-
-Anything I create in /home/user/project will appear instantly in your VS Code Tunnel or VS Code Web preview.
-
-Try editing this file from your VS Code and I will read it back.
